@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+body{
+    background-image: linear-gradient(to left, #014034ce,#038C73);
+}
+main{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 2px 3px rgb(255, 255, 255);
+    /* 1º o quanto a sombra anda pro lado, 2º o quanto a sobra anda pra baixo,  3º o quanto a sombra vai espalhar, 4º o quanto de transparencia com a cor */
+}
+h1{
+color: #36BFB1;
+text-align: center;
+text-shadow: 1px 1px 2px #154b45;
+;
+}
+h2{
+color: #038C73;
+}
+p{
+    text-align: justify;
+}

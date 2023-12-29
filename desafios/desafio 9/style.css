@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: linear-gradient(45deg, rgb(59, 139, 59), rgb(49, 189, 49), rgb(11, 41, 11));
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 1px  1px white;
+}
